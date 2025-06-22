@@ -45,10 +45,10 @@
 ## 📁 Project Repositories
 
 ### 🔹 Frontend
-> [github.com/colman-dev-project/Front](https://github.com/colman-dev-project/Front)
+> [github.com/colman-dev-project/Front](https://github.com/Locker-It/Front)
 
 ### 🔹 Backend
-> [github.com/colman-dev-project/Back](https://github.com/colman-dev-project/Back)
+> [github.com/colman-dev-project/Back](https://github.com/Locker-It/Back)
 
 ---
 
