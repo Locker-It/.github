@@ -5,19 +5,19 @@
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
-- 🛒 Second-hand product marketplace with real-time status updates
-- 🔒 Locker-based logistics – no direct contact between buyer and seller
-- 🖼️ Secure image upload via AWS S3
-- 🔐 JWT Authentication (Access & Refresh tokens stored in HTTP-only cookies)
-- 👥 User & Admin role separation
-- 🧾 Purchase queue tracking, time estimates, and real-time alerts
-- 📑 Swagger API documentation with multiple examples and error schemas
+-  Second-hand product marketplace with real-time status updates
+-  Locker-based logistics – no direct contact between buyer and seller
+-  Secure image upload via AWS S3
+-  JWT Authentication (Access & Refresh tokens stored in HTTP-only cookies)
+-  User & Admin role separation
+-  Purchase queue tracking, time estimates, and real-time alerts
+-  Swagger API documentation with multiple examples and error schemas
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ### Backend (Node.js & Express)
 - Express.js with MVC architecture
@@ -34,7 +34,7 @@
 
 ---
 
-## 🐳 Docker Support
+## Docker Support
 
 - **Dockerized environment** for both client and server
 - **Docker Compose** configuration for local development
@@ -42,17 +42,17 @@
 
 ---
 
-## 📁 Project Repositories
+## Project Repositories
 
-### 🔹 Frontend
+### Frontend
 > [github.com/colman-dev-project/Front](https://github.com/Locker-It/Front)
 
-### 🔹 Backend
+### Backend
 > [github.com/colman-dev-project/Back](https://github.com/Locker-It/Back)
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 - Deliver a safe, modern second-hand trading platform
 - Ensure a seamless user experience without direct communication between users
